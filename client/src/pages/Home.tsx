@@ -22,7 +22,7 @@ export default function Home() {
   };
 
   return (
-    <div className="w-full bg-gradient-to-b from-[#0a0e27] via-[#0f1535] to-[#0a0e27]">
+    <div className="w-full bg-background min-h-screen">
       <Navigation />
 
       <Hero
